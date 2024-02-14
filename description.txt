@@ -1,0 +1,4 @@
+Empresa GameBox, es un compañia que se encarga de la venta de videojuegos, componentes de consolas y prestacion de servicios de las mismas.
+la compañia ya lleva mas de 9 años de trayectoria, manejando ya varios locales en la ciudad de Manizales, es un establecimiento muy visitado.
+Pero todo su funcionamiento es de una forma presencial o via redes sociales y no manejan un sistema seguro o bien organizado para las ventas
+del dia a dia 
